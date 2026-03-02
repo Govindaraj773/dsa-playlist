@@ -13,4 +13,4 @@ var strStr = function(string1, string2){
     return -1;
 }
 
-console.log(strStr(string1, string2));
+console.log(strStr(string1, string2));  
