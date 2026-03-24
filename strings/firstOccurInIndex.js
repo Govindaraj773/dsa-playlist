@@ -22,7 +22,7 @@ let string2 = "sad";
 var strStr2 = function(string1, string2){
     if(string2.length === 0) return 0;
 
-    for(let i=0; i<string1.length - string2.length; i++){
+    for(let i=0; i<= string1.length - string2.length; i++){
         let match = true;
 
         for(let j=0; j<string2.length; j++){
