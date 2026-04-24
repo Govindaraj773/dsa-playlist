@@ -1,3 +1,4 @@
+// finding the unique value in an array
 let arr = [1, 2, 3, 4, 3, 2, 1, -3];
 
 let bag = {};
